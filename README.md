@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Shourya 👋
 
-<!--
-**shourya-mittal/shourya-mittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer @ Bank of America  
+🎓 B.Tech CSE, VIT  
+🚀 Passionate about AI, Full Stack & Scalable Systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 What I Do
+- Build full-stack applications (MERN)
+- Work with AI/ML models (YOLO, Transformers, LSTM)
+- Interested in system design & scalable architectures
+
+---
+
+## 🛠 Tech Stack
+Languages: C++, Python, JavaScript  
+Frontend: React, HTML, CSS  
+Backend: Node.js, Express  
+Database: MongoDB, SQL  
+Tools: AWS, Git, Firebase  
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Melody Generator (LSTM)
+- Generates music using deep learning
+- Streamlit UI
+- LSTM-based sequence prediction
+
+### 👕 AI Wardrobe App (ONGOING 🔥)
+- Upload clothes images
+- AI-based classification
+- Outfit recommendation system
+
+### 🤝 Roommate Matcher
+- Firebase-based matching system
+- Compatibility scoring algorithm
+
+---
+
+## 📊 GitHub Stats
+(we’ll add this below)
+
+---
+
+## 📫 Connect With Me
+LinkedIn: (add link)
+Email: shouryamittal2004@gmail.com
