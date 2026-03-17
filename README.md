@@ -1,7 +1,7 @@
 # Hi, I'm Shourya Mittal 👋
 
 💼 Software Engineer @ Bank of America (Aug 2025 – Present)
-🎓 B.Tech CSE, VIT Vellore (GPA: 9.02)
+🎓 B.Tech CSE, VIT Vellore (GPA: 9.10)
 🚀 Passionate about AI, Full Stack Development & Scalable Systems
 
 ---
@@ -70,11 +70,13 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shourya-mittal\&layout=compact\&theme=radical)
 
+![Streak](https://streak-stats.demolab.com?user=shourya-mittal&theme=radical)
+
 ---
 
 ## 📫 Connect With Me
 
 📧 [shouryamittal2004@gmail.com](mailto:shouryamittal2004@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/shourya-mittal-7842b2233/
+🔗 [LinkedIn]https://www.linkedin.com/in/shourya-mittal-7842b2233/
 
 ![Visitors](https://komarev.com/ghpvc/?username=shourya-mittal)
