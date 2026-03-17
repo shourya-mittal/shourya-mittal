@@ -66,11 +66,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shourya-mittal\&show_icons=true\&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shourya-mittal\&show_icons=true\&theme=radical&cache_seconds=10)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shourya-mittal\&layout=compact\&theme=radical)
-
-![Streak](https://streak-stats.demolab.com?user=shourya-mittal&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shourya-mittal\&layout=compact\&theme=radical&cache_seconds=10)
 
 ---
 
