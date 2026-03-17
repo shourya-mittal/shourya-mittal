@@ -1,7 +1,9 @@
 # Hi, I'm Shourya Mittal 👋
 
 💼 Software Engineer @ Bank of America (Aug 2025 – Present)
+<br>
 🎓 B.Tech CSE, VIT Vellore (GPA: 9.10)
+<br>
 🚀 Passionate about AI, Full Stack Development & Scalable Systems
 
 ---
@@ -18,10 +20,15 @@
 ## 🛠 Tech Stack
 
 💻 Languages: C++, Python, JavaScript, SQL
+<br>
 🌐 Frontend: ReactJS, HTML, CSS
+<br>
 ⚙️ Backend: Node.js, Express
+<br>
 🗄 Database: MongoDB, Firebase
+<br>
 ☁️ Cloud: AWS
+<br>
 🧠 AI/ML: OpenCV, YOLOv8, Transformers
 
 ---
@@ -73,6 +80,7 @@
 ## 📫 Connect With Me
 
 📧 [shouryamittal2004@gmail.com](mailto:shouryamittal2004@gmail.com)
-🔗 [LinkedIn]https://www.linkedin.com/in/shourya-mittal-7842b2233/
+<br>
+🔗 [LinkedIn](https://www.linkedin.com/in/shourya-mittal-7842b2233/)
 
 ![Visitors](https://komarev.com/ghpvc/?username=shourya-mittal)
