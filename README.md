@@ -76,3 +76,5 @@
 
 📧 [shouryamittal2004@gmail.com](mailto:shouryamittal2004@gmail.com)
 🔗 LinkedIn: https://www.linkedin.com/in/shourya-mittal-7842b2233/
+
+![Visitors](https://komarev.com/ghpvc/?username=shourya-mittal)
