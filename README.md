@@ -37,9 +37,10 @@
 
 ### 👕 AI Wardrobe App
 🔗 https://smartwardrobe.vercel.app/
-* Upload clothes and detect attributes using AI
-* Smart outfit recommendations
-* Focus on real-world usability
+* AI-powered wardrobe management system
+* Smart daily outfit planner based on weather & usage
+* Outfit recommendations with intelligent selection logic
+* Designed as a real-world productivity product
 
 ---
 
