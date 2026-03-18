@@ -35,32 +35,27 @@
 
 ## 🚀 Featured Projects
 
-### 👕 AI Wardrobe App (ONGOING 🔥)
-
+### 👕 AI Wardrobe App
+🔗 https://smartwardrobe.vercel.app/
 * Upload clothes and detect attributes using AI
 * Smart outfit recommendations
 * Focus on real-world usability
 
 ---
 
+### 🤝 Roommate Matcher
+🔗 https://roommate-matcher-inky.vercel.app/
+* Preference-based matching system with weighted scoring
+* Supports deal-breaker filtering and compatibility logic
+* Built using React + Firebase
+
+---
+
 ### 🧠 Melody Generator
 
-* Generates music using LSTM neural networks
-* Built with Python & Streamlit
-
----
-
-### 🤝 Roommate Matcher
-
-* Matches roommates using compatibility logic
-* Firebase-based backend
-
----
-
-### 🎬 Movie Recommendation System
-
-* Content-based filtering system
-* Suggests top 5 similar movies
+* LSTM-based sequence model for music generation
+* Generates MIDI continuations from input melodies
+* Demonstrates deep learning in creative domains
 
 ---
 
